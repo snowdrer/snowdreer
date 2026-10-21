@@ -4,7 +4,7 @@
 
 Oii! Eu gosto de jogos, desenhos, animes e criar histórias!
 
-<img src="https://github.com/snowdreer/meu-repositório/blob/main/hoppy.jpg?raw=true" width="500" alt="Smiling Critters">
+<img src="https://raw.githubusercontent.com/snowdreer/meu-reposit%C3%B3rio/main/hoppy.jpg" width="500" alt="Smiling Critters">
 
 ## 🎮 Meus projetos
 
@@ -18,6 +18,5 @@ Personagens originais, desenhos e animações inspiradas nos meus jogos favorito
 
 ## ☀️ DogDay animado!
 
-<img src="https://github.com/snowdreer/meu-repositório/blob/main/dl.gif.gif?raw=true" width="250" alt="GIF animado">
-
+<img src="https://raw.githubusercontent.com/snowdreer/meu-reposit%C3%B3rio/main/dl.gif.gif" width="250" alt="GIF animado">
 </div>
