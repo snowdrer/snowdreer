@@ -3,7 +3,7 @@
 int main(){
   int hab;  
 
-  im=nt("%d",&hab);
+  int("%d",&hab);
 
   printf("%d\n",hab*10);
 
