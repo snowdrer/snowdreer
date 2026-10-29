@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+  int hab;  
+
+  im=nt("%d",&hab);
+
+  printf("%d\n",hab/214.211.951);
+
+  return 0;
+}
