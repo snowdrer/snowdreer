@@ -5,7 +5,7 @@ int main(){
 
   im=nt("%d",&hab);
 
-  printf("%d\n",hab/214.211.951);
+  printf("%d\n",hab*10);
 
   return 0;
 }
